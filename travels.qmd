@@ -43,6 +43,8 @@ map
 
 ```
 
+
+## My Favorite Beaches
 ::: {layout-ncol=3}
 
 ![South Salmon Creek](media/bodega.JPG){group="my-gallery" description="I used to live about 40 minutes from Bodega Bay and salmon creek was one of my favorite beaches to visit."}
