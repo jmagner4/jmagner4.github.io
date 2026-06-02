@@ -9,6 +9,7 @@ format:
   html:
     css: styles.scss
 ---
+
 I haven't traveled very much outside of California. I look forward to adding more locations!
 
 Red pins are cities I've lived in, blue pins are places I've visited.
@@ -44,13 +45,13 @@ map
 ```
 
 
-## My Favorite Beaches
-::: {layout-ncol=3}
+#
+# My Favorite Beaches
 
+::: {layout-ncol="3"}
 ![South Salmon Creek](media/bodega.JPG){group="my-gallery" description="I used to live about 40 minutes from Bodega Bay and salmon creek was one of my favorite beaches to visit."}
 
 ![Sands Beach](media/sands.JPG){group="my-gallery" description="Now I live just a 20 minute walk from Sands beach so it is the beach I visit most often."}
 
 ![Morro Bay](media/morro.JPG){group="my-gallery" description="I've only been to Morro Bay once, but it is so gorgeous I had to include."}
 :::
-
